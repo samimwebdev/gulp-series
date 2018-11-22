@@ -1,0 +1,1 @@
+"use strict";var hello=function(){console.log("hello")};console.log(hello());var anotherHello=function(){console.log("hello")};console.log(anotherHello());
